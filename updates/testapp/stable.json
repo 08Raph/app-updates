@@ -1,0 +1,24 @@
+{
+  "payload": {
+    "schema": 1,
+    "app_id": "testapp",
+    "app_name": "testapp",
+    "channel": "stable",
+    "version": "0.0.1",
+    "released": "2026-11-06T22:44:37Z",
+    "notes": "",
+    "mandatory": false,
+    "min_version": "",
+    "assets": [
+      {
+        "name": "SightForge_passkey_v11.zip",
+        "platform": "windows",
+        "kind": "zip",
+        "size": 1293555,
+        "sha256": "d353e8fc00d71353cfa5d39a67d63d92ef32888d7dd49088ce04de9442aad430",
+        "url": "https://github.com/08Raph/app-updates/releases/download/testapp-v0.0.1/SightForge_passkey_v11.zip"
+      }
+    ]
+  },
+  "sig": "Ws394Nx+Cz/D3KRl2iIQFo2IsVXOLeCmEpqYohHIvuXv8ZXofP6quvkrmSx9DqOUJYXP3z78X3zCHWsiwzICAw=="
+}
