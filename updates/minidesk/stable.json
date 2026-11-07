@@ -1,0 +1,32 @@
+{
+  "payload": {
+    "schema": 1,
+    "app_id": "minidesk",
+    "app_name": "MiniDesk",
+    "channel": "stable",
+    "version": "1.0.1",
+    "released": "2026-11-07T23:22:29Z",
+    "notes": "Bug fixes and improvements.",
+    "mandatory": false,
+    "min_version": "",
+    "assets": [
+      {
+        "name": "MiniDesk-Setup.exe",
+        "platform": "windows",
+        "kind": "installer",
+        "size": 80511699,
+        "sha256": "9d35a8c7588a5e2b099790063385e8312dab5a9de8ceed40ba4bf1e0b8e69a0a",
+        "url": "https://github.com/08Raph/app-updates/releases/download/minidesk-v1.0.1/MiniDesk-Setup.exe"
+      },
+      {
+        "name": "MiniDesk.exe",
+        "platform": "windows",
+        "kind": "exe",
+        "size": 71589868,
+        "sha256": "1369644881b93d7d939902a8f178ddc52a92242d8716bcbd7f15db582924aa42",
+        "url": "https://github.com/08Raph/app-updates/releases/download/minidesk-v1.0.1/MiniDesk.exe"
+      }
+    ]
+  },
+  "sig": "Ya4JklqzNE04sElnTqj1bGJPiE1WdZ6K6y46t2t52on0GDv9MlS5pkioirl6kI+xFz2R16E/34dm06RNG/fcBw=="
+}
